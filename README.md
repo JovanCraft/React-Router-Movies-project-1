@@ -23,8 +23,8 @@
 
 Once you are done your application will have two routes:
 
-* [ ] [Screenshot of route '/'](./design-files/design-2-routeA.png)
-* [ ] [Screenshot of route '/movies/:id'](./design-files/design-3-routeB.png)
+* [x] [Screenshot of route '/'](./design-files/design-2-routeA.png)
+* [x] [Screenshot of route '/movies/:id'](./design-files/design-3-routeB.png)
 
 #### Set up Routes
 
@@ -57,3 +57,6 @@ If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 #### Turn your Saved Movie list into `Link`s
 
 * [ ] Your list of saved movies should be links to the movie itself. Study and understand what the `saveMovie` function is doing.
+
+
+
