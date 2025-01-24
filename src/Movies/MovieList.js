@@ -32,3 +32,8 @@ function MovieDetails(props) {
     </div>
   );
 }
+
+
+
+
+
